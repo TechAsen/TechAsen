@@ -40,7 +40,7 @@ I'm a passionate system administrator with a strong focus on:
 
 📫 **Let’s connect!**
 
-- 🔗 [LinkedIn](www.linkedin.com/in/asen-asenov-6838a619b) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/asen-asenov-6838a619b) 
 - 💼 [techasen.github.io](https://techasen.github.io) 
 - ✉️ `techasen@protonmail.com` 
 
