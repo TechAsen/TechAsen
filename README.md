@@ -42,7 +42,7 @@ I'm a passionate system administrator with a strong focus on:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/asen-asenov-6838a619b) 
 - 💼 [techasen.github.io](https://techasen.github.io) 
-- ✉️ `techasen@protonmail.com` 
+- ✉️ `asen.asenov@techasen.eu` 
 
 > _“Great systems are invisible — until something breaks. I make sure they rarely do.”_
 
