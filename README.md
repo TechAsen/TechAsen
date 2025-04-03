@@ -40,9 +40,9 @@ I'm a passionate system administrator with a strong focus on:
 
 📫 **Let’s connect!**
 
-- 🔗 [LinkedIn](www.linkedin.com/in/asen-asenov-6838a619b) *(update this link!)*
-- 💼 [techasen.github.io](https://techasen.github.io) *(soon... your portfolio site)*
-- ✉️ `techasen@protonmail.com` *(replace with your real one)*
+- 🔗 [LinkedIn](www.linkedin.com/in/asen-asenov-6838a619b) 
+- 💼 [techasen.github.io](https://techasen.github.io) 
+- ✉️ `techasen@protonmail.com` 
 
 > _“Great systems are invisible — until something breaks. I make sure they rarely do.”_
 
