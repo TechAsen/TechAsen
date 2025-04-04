@@ -21,7 +21,7 @@ I'm a passionate system administrator with a strong focus on:
 
 - 🔧 [`homelab`](https://github.com/TechAsen/homelab) – My home lab: topology, setups & automation
 - 🧰 [`linux-scripts`](https://github.com/TechAsen/linux-scripts) – Useful Bash scripts for daily sysadmin tasks
-- 🚀 [`docker-templates`](https://github.com/TechAsen/docker-templates) – Prebuilt Compose stacks (Nginx, Nextcloud, Portainer)
+- 🚀 [`powershell-scripts`](https://github.com/TechAsen/powershell-scripts) – Useful PowerShell scripts for daily sysadmin task
 - 🔐 [`mikrotik-configs`](https://github.com/TechAsen/mikrotik-configs) – Scripts & setups for Mikrotik routers and WireGuard
 
 ---
