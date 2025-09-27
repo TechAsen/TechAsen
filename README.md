@@ -24,6 +24,8 @@ I'm a passionate system administrator with a strong focus on:
 - 🚀 [`powershell-scripts`](https://github.com/TechAsen/powershell-scripts) – Useful PowerShell scripts for daily sysadmin task
 - 🔐 [`mikrotik-configs`](https://github.com/TechAsen/mikrotik-configs) – Scripts & setups for Mikrotik routers and WireGuard
 
+- 🧰 [`mikrotik-configs`](https://github.com/TechAsen/dotfiles) – My personal configuration files
+
 ---
 
 🧠 **Tools & Technologies**
